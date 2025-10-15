@@ -4,7 +4,8 @@
 I'm a passionate **Data Scientist** and **Machine Learning Engineer** with hands-on experience in building end-to-end AI systems, deploying ML pipelines, and solving complex computer vision and NLP problems. I love turning data into impactful solutions.
 
 🎓 I'm pursuing my **MS in Data Science** at **University of Management and Technology**, Lahore  
-💼 Currently working as **Lead AI Engineer** at **Sensviz**  
+💼 Currently working as an **Lead AI Engineer** at **Digimark Developers**
+💼 Also worked as **Senior AI Engineer** at **Sensviz**  
 📚 Previously a **Junior Data Scientist** at **Baltoro**  
 🤖 Interested in **LLMs**, **Computer Vision**, **Transformers**, and **Deep Learning**  
 📩 Reach me at: **aliabbas3909@gmail.com**  
